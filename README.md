@@ -1,0 +1,2 @@
+# QtConnectToMysqlDatabase
+Ubuntu下编译Qt连接Mysql的驱动
